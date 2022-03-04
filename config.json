@@ -1,0 +1,7 @@
+{
+    "p2p": {
+        "bindMultiAddresses": [
+            "/ip4/0.0.0.0/tcp/2035"
+        ]
+    }
+}
